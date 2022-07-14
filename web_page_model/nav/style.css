@@ -1,0 +1,54 @@
+body {
+    background-color: #202033;
+}
+
+/*-------------------------------------NAV-----------------------------------*/
+
+nav {
+    height: 50px;
+    background-color: #101022;
+}
+
+.nav-div {
+    display: inline;
+}
+
+.logo {
+    color: aliceblue;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin: auto 50px;
+}
+
+.about {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 15px 7px;
+    color: aliceblue;
+}
+
+.contacto {
+    display: block;
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #404077;
+    margin: 8px 50px 8px 30px;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+/*-------------------------------------NAV-----------------------------------*/
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+a:hover {
+    color: #8080BB;
+}
